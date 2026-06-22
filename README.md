@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-en-tu-boca/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Vivir en tu boca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-boca/) |
+| **Get License** | [License this song: Vivir en tu boca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-boca/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero vivir en tu boca, perderme esta noche
+> Sabor a pecado, no hay quien me reproche
+> Dime que sí, que el deseo no miente
+> Un beso tuyo y se enciende mi mente
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
